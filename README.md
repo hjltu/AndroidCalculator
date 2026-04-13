@@ -10,6 +10,8 @@ A scientific calculator app for Android with three functional tabs: Math, PID, a
 
 ### Math Tab (default)
 
+![Math](math.jpg)
+
 Full-featured scientific calculator with expression parsing, history, and percentage support.
 
 **Operations:**
@@ -31,6 +33,8 @@ Full-featured scientific calculator with expression parsing, history, and percen
 
 ### PID Tab
 
+![PID](pid.jpg)
+
 Ziegler-Nichols PID tuning calculator.
 
 **Input:**
@@ -43,6 +47,8 @@ Ziegler-Nichols PID tuning calculator.
 - Kd = 0.075 * Ku * Tu
 
 ### Electric Tab
+
+![Electric](electric.jpg)
 
 Ohm's law and power calculator.
 
